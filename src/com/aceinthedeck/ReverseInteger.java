@@ -8,11 +8,11 @@ public class ReverseInteger {
 
         int reverse = 0;
 
-        if(number<10){
+        if(number<10 && number>=0){
             return number;
         }
 
-        while (number / 10 != 0) {
+        while (number != 0) {
             reverse = reverse * 10 + number % 10;
             number = number / 10;
         }
