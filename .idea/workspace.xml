@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/MaxChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/MaxCharTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/PyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/SentenceCapitalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/StepPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/AnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/PyramidPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/SentenceCapitalizationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/StepPatternTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammingProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingProblems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/tests/ReverseIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/ReverseIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingProblems/com/aceinthedeck/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingProblems/com/aceinthedeck/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +31,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FizzBuzzTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="57" lean-forward="true" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FizzBuzz.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="41">
+              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/ReverseStringTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/PalindromeTest.java" />
@@ -72,8 +86,22 @@
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/MaxChar.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/MaxChar.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/MaxCharTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FizzBuzzTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/ArrayChunkTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/Anagram.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/AnagramTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/SentenceCapitalizationTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/SentenceCapitalization.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/StepPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/StepPatternTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/PyramidPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/PyramidPatternTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/SpiralMatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" />
       </list>
     </option>
   </component>
@@ -149,56 +177,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.fizzBuzzTest1">
-    <configuration name="FizzBuzzTest.fizzBuzzTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FizzBuzzTest" />
-      <option name="METHOD_NAME" value="fizzBuzzTest1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxCharTest.MaxCharTestA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.MaxCharTest" />
-      <option name="METHOD_NAME" value="MaxCharTestA" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxCharTest.MaxCharTestB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.MaxCharTest" />
-      <option name="METHOD_NAME" value="MaxCharTestB" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseIntegerTest.ReverseIntegerTest100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.Main" />
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -206,44 +187,88 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeriesTest.iterativeTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.ReverseIntegerTest" />
-      <option name="METHOD_NAME" value="ReverseIntegerTest100" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FibonacciSeriesTest" />
+      <option name="METHOD_NAME" value="iterativeTest5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseIntegerTest.ReverseIntegerTest91" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PyramidPatternTest.patternTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.*" />
+          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.ReverseIntegerTest" />
-      <option name="METHOD_NAME" value="ReverseIntegerTest91" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.PyramidPatternTest" />
+      <option name="METHOD_NAME" value="patternTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentenceCapitalizationTest.capitalizeTestEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.SentenceCapitalizationTest" />
+      <option name="METHOD_NAME" value="capitalizeTestEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StepPatternTest.patternTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.StepPatternTest" />
+      <option name="METHOD_NAME" value="patternTest4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ReverseIntegerTest.ReverseIntegerTest100" />
-      <item itemvalue="JUnit.ReverseIntegerTest.ReverseIntegerTest91" />
-      <item itemvalue="JUnit.MaxCharTest.MaxCharTestA" />
-      <item itemvalue="JUnit.MaxCharTest.MaxCharTestB" />
-      <item itemvalue="JUnit.FizzBuzzTest.fizzBuzzTest1" />
+      <item itemvalue="JUnit.SentenceCapitalizationTest.capitalizeTestEmpty" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.StepPatternTest.patternTest4" />
+      <item itemvalue="JUnit.PyramidPatternTest.patternTest3" />
+      <item itemvalue="JUnit.FibonacciSeriesTest.iterativeTest5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FizzBuzzTest.fizzBuzzTest1" />
-        <item itemvalue="JUnit.MaxCharTest.MaxCharTestB" />
-        <item itemvalue="JUnit.MaxCharTest.MaxCharTestA" />
-        <item itemvalue="JUnit.ReverseIntegerTest.ReverseIntegerTest91" />
-        <item itemvalue="JUnit.ReverseIntegerTest.ReverseIntegerTest100" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FibonacciSeriesTest.iterativeTest5" />
+        <item itemvalue="JUnit.PyramidPatternTest.patternTest3" />
+        <item itemvalue="JUnit.StepPatternTest.patternTest4" />
+        <item itemvalue="JUnit.SentenceCapitalizationTest.capitalizeTestEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +282,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564317501359</updated>
-      <workItem from="1564317505067" duration="6715000" />
+      <workItem from="1564317505067" duration="17423000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1564328495759</created>
@@ -266,43 +291,50 @@
       <option name="project" value="LOCAL" />
       <updated>1564328495759</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added fizzbuzz">
+      <created>1564339087894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564339087894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxCharTest_MaxCharTestA - 2019.07.28 at 17h 12m 54s.xml">
-      <configuration name="MaxCharTest.MaxCharTestA" configurationId="JUnit" />
+    <history-entry file="AnagramTest_AnagramTestStorage2 - 2019.07.29 at 00h 23m 59s.xml">
+      <configuration name="AnagramTest.AnagramTestStorage2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxCharTest_MaxCharTestA - 2019.07.28 at 17h 13m 13s.xml">
-      <configuration name="MaxCharTest.MaxCharTestA" configurationId="JUnit" />
+    <history-entry file="SentenceCapitalizationTest_capitalizeTest - 2019.07.29 at 09h 30m 46s.xml">
+      <configuration name="SentenceCapitalizationTest.capitalizeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxCharTest_MaxCharTestB - 2019.07.28 at 17h 14m 01s.xml">
-      <configuration name="MaxCharTest.MaxCharTestB" configurationId="JUnit" />
+    <history-entry file="SentenceCapitalizationTest_capitalizeTest - 2019.07.29 at 09h 31m 15s.xml">
+      <configuration name="SentenceCapitalizationTest.capitalizeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_fizzBuzzTest1 - 2019.07.28 at 19h 24m 07s.xml">
-      <configuration name="FizzBuzzTest.fizzBuzzTest1" configurationId="JUnit" />
+    <history-entry file="SentenceCapitalizationTest_capitalizeTestEmpty - 2019.07.29 at 09h 32m 01s.xml">
+      <configuration name="SentenceCapitalizationTest.capitalizeTestEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_fizzBuzzTest1 - 2019.07.28 at 19h 32m 39s.xml">
-      <configuration name="FizzBuzzTest.fizzBuzzTest1" configurationId="JUnit" />
+    <history-entry file="SentenceCapitalizationTest_capitalizeTestEmpty - 2019.07.29 at 09h 32m 39s.xml">
+      <configuration name="SentenceCapitalizationTest.capitalizeTestEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_fizzBuzzTest1 - 2019.07.28 at 19h 33m 58s.xml">
-      <configuration name="FizzBuzzTest.fizzBuzzTest1" configurationId="JUnit" />
+    <history-entry file="StepPatternTest_patternTest4 - 2019.07.29 at 10h 19m 29s.xml">
+      <configuration name="StepPatternTest.patternTest4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_fizzBuzzTest1 - 2019.07.28 at 19h 34m 16s.xml">
-      <configuration name="FizzBuzzTest.fizzBuzzTest1" configurationId="JUnit" />
+    <history-entry file="StepPatternTest_patternTest4 - 2019.07.29 at 11h 13m 13s.xml">
+      <configuration name="StepPatternTest.patternTest4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_fizzBuzzTest1 - 2019.07.28 at 19h 34m 48s.xml">
-      <configuration name="FizzBuzzTest.fizzBuzzTest1" configurationId="JUnit" />
+    <history-entry file="PyramidPatternTest_patternTest3 - 2019.07.29 at 11h 14m 43s.xml">
+      <configuration name="PyramidPatternTest.patternTest3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_fizzBuzzTest1 - 2019.07.28 at 19h 35m 46s.xml">
-      <configuration name="FizzBuzzTest.fizzBuzzTest1" configurationId="JUnit" />
+    <history-entry file="FibonacciSeriesTest_iterativeTest5 - 2019.07.29 at 22h 33m 37s.xml">
+      <configuration name="FibonacciSeriesTest.iterativeTest5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_fizzBuzzTest1 - 2019.07.28 at 19h 35m 58s.xml">
-      <configuration name="FizzBuzzTest.fizzBuzzTest1" configurationId="JUnit" />
+    <history-entry file="FibonacciSeriesTest_iterativeTest5 - 2019.07.29 at 22h 34m 18s.xml">
+      <configuration name="FibonacciSeriesTest.iterativeTest5" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6715000" />
+    <option name="totallyTimeSpent" value="17423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1260" height="684" extended-state="0" />
@@ -313,19 +345,19 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.500821" side_tool="true" weight="0.39864865" />
+      <window_info anchor="bottom" id="Messages" weight="0.3293919" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.3293919" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293919" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39864865" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293919" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49917898" weight="0.39864865" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -345,7 +377,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added gitignore file" />
+    <MESSAGE value="added fizzbuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fizzbuzz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -364,9 +397,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FizzBuzzTest.java</url>
-          <line>14</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/SpiralMatrix.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -417,27 +462,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/MaxCharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,10 +499,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/ArrayChunkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/AnagramTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/MaxCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/StepPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/SentenceCapitalizationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/SentenceCapitalization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="57" lean-forward="true" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        <state relative-caret-position="255">
+          <caret line="17" column="52" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/StepPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -483,8 +600,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="179">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/PyramidPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/SpiralMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/PyramidPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="58" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="18" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
         </state>
       </provider>
     </entry>
