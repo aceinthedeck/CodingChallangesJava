@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="" />
+    <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="added more questions">
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -25,19 +31,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+            <state relative-caret-position="195">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="77">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,6 +113,11 @@
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTriplets.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java" />
       </list>
     </option>
   </component>
@@ -109,6 +141,24 @@
             <path>
               <item name="ProgrammingProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aceinthedeck" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aceinthedeck" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,21 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.Main" />
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciSeriesTest.iterativeTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FindTripletsTest.test2">
+    <configuration name="ContinousSubArrayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -166,14 +203,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FibonacciSeriesTest" />
-      <option name="METHOD_NAME" value="iterativeTest5" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.ContinousSubArrayTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PyramidPatternTest.patternTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindTripletsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -182,14 +219,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.PyramidPatternTest" />
-      <option name="METHOD_NAME" value="patternTest3" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FindTripletsTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenceCapitalizationTest.capitalizeTestEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindTripletsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -198,14 +235,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.SentenceCapitalizationTest" />
-      <option name="METHOD_NAME" value="capitalizeTestEmpty" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FindTripletsTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StepPatternTest.patternTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindTripletsTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -214,27 +251,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.StepPatternTest" />
-      <option name="METHOD_NAME" value="patternTest4" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FindTripletsTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTripletsTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FindTripletsTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SentenceCapitalizationTest.capitalizeTestEmpty" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.StepPatternTest.patternTest4" />
-      <item itemvalue="JUnit.PyramidPatternTest.patternTest3" />
-      <item itemvalue="JUnit.FibonacciSeriesTest.iterativeTest5" />
+      <item itemvalue="JUnit.ContinousSubArrayTest.test1" />
+      <item itemvalue="JUnit.FindTripletsTest.test1" />
+      <item itemvalue="JUnit.FindTripletsTest.test" />
+      <item itemvalue="JUnit.FindTripletsTest.test3" />
+      <item itemvalue="JUnit.FindTripletsTest.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.FibonacciSeriesTest.iterativeTest5" />
-        <item itemvalue="JUnit.PyramidPatternTest.patternTest3" />
-        <item itemvalue="JUnit.StepPatternTest.patternTest4" />
-        <item itemvalue="JUnit.SentenceCapitalizationTest.capitalizeTestEmpty" />
+        <item itemvalue="JUnit.FindTripletsTest.test2" />
+        <item itemvalue="JUnit.FindTripletsTest.test3" />
+        <item itemvalue="JUnit.FindTripletsTest.test" />
+        <item itemvalue="JUnit.FindTripletsTest.test1" />
+        <item itemvalue="JUnit.ContinousSubArrayTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +301,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564317501359</updated>
-      <workItem from="1564317505067" duration="17661000" />
+      <workItem from="1564317505067" duration="21655000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1564328495759</created>
@@ -271,31 +324,17 @@
       <option name="project" value="LOCAL" />
       <updated>1564437193079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added more questions">
+      <created>1564437371335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564437371335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnagramTest_AnagramTestStorage2 - 2019.07.29 at 00h 23m 59s.xml">
-      <configuration name="AnagramTest.AnagramTestStorage2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SentenceCapitalizationTest_capitalizeTest - 2019.07.29 at 09h 30m 46s.xml">
-      <configuration name="SentenceCapitalizationTest.capitalizeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SentenceCapitalizationTest_capitalizeTest - 2019.07.29 at 09h 31m 15s.xml">
-      <configuration name="SentenceCapitalizationTest.capitalizeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SentenceCapitalizationTest_capitalizeTestEmpty - 2019.07.29 at 09h 32m 01s.xml">
-      <configuration name="SentenceCapitalizationTest.capitalizeTestEmpty" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SentenceCapitalizationTest_capitalizeTestEmpty - 2019.07.29 at 09h 32m 39s.xml">
-      <configuration name="SentenceCapitalizationTest.capitalizeTestEmpty" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StepPatternTest_patternTest4 - 2019.07.29 at 10h 19m 29s.xml">
-      <configuration name="StepPatternTest.patternTest4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StepPatternTest_patternTest4 - 2019.07.29 at 11h 13m 13s.xml">
-      <configuration name="StepPatternTest.patternTest4" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PyramidPatternTest_patternTest3 - 2019.07.29 at 11h 14m 43s.xml">
       <configuration name="PyramidPatternTest.patternTest3" configurationId="JUnit" />
     </history-entry>
@@ -305,21 +344,43 @@
     <history-entry file="FibonacciSeriesTest_iterativeTest5 - 2019.07.29 at 22h 34m 18s.xml">
       <configuration name="FibonacciSeriesTest.iterativeTest5" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ContinousSubArrayTest_test1 - 2019.07.30 at 21h 24m 06s.xml">
+      <configuration name="ContinousSubArrayTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContinousSubArrayTest_test1 - 2019.07.30 at 21h 26m 07s.xml">
+      <configuration name="ContinousSubArrayTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContinousSubArrayTest_test1 - 2019.07.30 at 21h 27m 04s.xml">
+      <configuration name="ContinousSubArrayTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContinousSubArrayTest_test1 - 2019.07.30 at 21h 27m 52s.xml">
+      <configuration name="ContinousSubArrayTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindTripletsTest_test1 - 2019.07.30 at 23h 09m 21s.xml">
+      <configuration name="FindTripletsTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindTripletsTest_test - 2019.07.30 at 23h 10m 07s.xml">
+      <configuration name="FindTripletsTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindTripletsTest_test3 - 2019.07.30 at 23h 15m 55s.xml">
+      <configuration name="FindTripletsTest.test3" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17661000" />
+    <option name="totallyTimeSpent" value="21655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1260" height="684" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3293919" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3293919" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.500821" side_tool="true" weight="0.39864865" />
@@ -602,10 +663,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        <state relative-caret-position="105">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -619,10 +687,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        <state relative-caret-position="41">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
