@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="added more questions">
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java" afterDir="false" />
+    <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheClouds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheCloudsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,43 +23,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="163">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,10 +40,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="41">
+              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,6 +106,17 @@
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchant.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchantTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleys.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleysTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheCloudsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheClouds.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedStringTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedString.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java" />
       </list>
     </option>
   </component>
@@ -158,15 +157,15 @@
               <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aceinthedeck" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Course" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,101 +192,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindTripletsTest.test2">
-    <configuration name="ContinousSubArrayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RotateLeftTest.test1">
+    <configuration name="JumpingOnTheCloudsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
+          <option name="PATTERN" value="com.aceinthedeck.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.ContinousSubArrayTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.JumpingOnTheCloudsTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTripletsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JumpingOnTheCloudsTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
+          <option name="PATTERN" value="com.aceinthedeck.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FindTripletsTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindTripletsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FindTripletsTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindTripletsTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FindTripletsTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.JumpingOnTheCloudsTest" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTripletsTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RepeatedStringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.tests.*" />
+          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.tests.FindTripletsTest" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.RepeatedStringTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatedStringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.RepeatedStringTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateLeftTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.RotateLeftTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ContinousSubArrayTest.test1" />
-      <item itemvalue="JUnit.FindTripletsTest.test1" />
-      <item itemvalue="JUnit.FindTripletsTest.test" />
-      <item itemvalue="JUnit.FindTripletsTest.test3" />
-      <item itemvalue="JUnit.FindTripletsTest.test2" />
+      <item itemvalue="JUnit.JumpingOnTheCloudsTest.test1" />
+      <item itemvalue="JUnit.JumpingOnTheCloudsTest.test2" />
+      <item itemvalue="JUnit.RepeatedStringTest.test1" />
+      <item itemvalue="JUnit.RepeatedStringTest.test2" />
+      <item itemvalue="JUnit.RotateLeftTest.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindTripletsTest.test2" />
-        <item itemvalue="JUnit.FindTripletsTest.test3" />
-        <item itemvalue="JUnit.FindTripletsTest.test" />
-        <item itemvalue="JUnit.FindTripletsTest.test1" />
-        <item itemvalue="JUnit.ContinousSubArrayTest.test1" />
+        <item itemvalue="JUnit.RotateLeftTest.test1" />
+        <item itemvalue="JUnit.RepeatedStringTest.test2" />
+        <item itemvalue="JUnit.RepeatedStringTest.test1" />
+        <item itemvalue="JUnit.JumpingOnTheCloudsTest.test2" />
+        <item itemvalue="JUnit.JumpingOnTheCloudsTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +301,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564317501359</updated>
       <workItem from="1564317505067" duration="21655000" />
+      <workItem from="1565650670422" duration="5867000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1564328495759</created>
@@ -331,78 +331,85 @@
       <option name="project" value="LOCAL" />
       <updated>1564437371335</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added more questions">
+      <created>1565650759256</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565650759256</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PyramidPatternTest_patternTest3 - 2019.07.29 at 11h 14m 43s.xml">
-      <configuration name="PyramidPatternTest.patternTest3" configurationId="JUnit" />
+    <history-entry file="JumpingOnTheCloudsTest_test1 - 2019.08.13 at 20h 55m 03s.xml">
+      <configuration name="JumpingOnTheCloudsTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciSeriesTest_iterativeTest5 - 2019.07.29 at 22h 33m 37s.xml">
-      <configuration name="FibonacciSeriesTest.iterativeTest5" configurationId="JUnit" />
+    <history-entry file="JumpingOnTheCloudsTest_test1 - 2019.08.13 at 20h 59m 00s.xml">
+      <configuration name="JumpingOnTheCloudsTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciSeriesTest_iterativeTest5 - 2019.07.29 at 22h 34m 18s.xml">
-      <configuration name="FibonacciSeriesTest.iterativeTest5" configurationId="JUnit" />
+    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 04m 32s.xml">
+      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContinousSubArrayTest_test1 - 2019.07.30 at 21h 24m 06s.xml">
-      <configuration name="ContinousSubArrayTest.test1" configurationId="JUnit" />
+    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 10m 20s.xml">
+      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContinousSubArrayTest_test1 - 2019.07.30 at 21h 26m 07s.xml">
-      <configuration name="ContinousSubArrayTest.test1" configurationId="JUnit" />
+    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 10m 38s.xml">
+      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContinousSubArrayTest_test1 - 2019.07.30 at 21h 27m 04s.xml">
-      <configuration name="ContinousSubArrayTest.test1" configurationId="JUnit" />
+    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 17m 52s.xml">
+      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContinousSubArrayTest_test1 - 2019.07.30 at 21h 27m 52s.xml">
-      <configuration name="ContinousSubArrayTest.test1" configurationId="JUnit" />
+    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 17m 55s.xml">
+      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTripletsTest_test1 - 2019.07.30 at 23h 09m 21s.xml">
-      <configuration name="FindTripletsTest.test1" configurationId="JUnit" />
+    <history-entry file="RepeatedStringTest_test1 - 2019.08.13 at 22h 11m 44s.xml">
+      <configuration name="RepeatedStringTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTripletsTest_test - 2019.07.30 at 23h 10m 07s.xml">
-      <configuration name="FindTripletsTest.test" configurationId="JUnit" />
+    <history-entry file="RepeatedStringTest_test2 - 2019.08.13 at 22h 12m 33s.xml">
+      <configuration name="RepeatedStringTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTripletsTest_test3 - 2019.07.30 at 23h 15m 55s.xml">
-      <configuration name="FindTripletsTest.test3" configurationId="JUnit" />
+    <history-entry file="RotateLeftTest_test1 - 2019.08.15 at 09h 26m 09s.xml">
+      <configuration name="RotateLeftTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21655000" />
+    <option name="totallyTimeSpent" value="27522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1260" height="684" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3293919" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.500821" side_tool="true" weight="0.39864865" />
-      <window_info anchor="bottom" id="Messages" weight="0.3293919" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3293919" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293919" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293919" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49917898" weight="0.39864865" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293919" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500821" side_tool="true" weight="0.39864865" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3293919" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3293919" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,6 +453,12 @@
           <line>31</line>
           <properties />
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheClouds.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -533,16 +546,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/ArrayChunkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/ArrayChunkTest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/AnagramTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -565,16 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,20 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -694,6 +674,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchantTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -704,17 +745,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheCloudsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="315">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheClouds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
