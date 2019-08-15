@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheClouds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheCloudsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/ArrayManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaosTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,31 +23,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            <state relative-caret-position="270">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/ArrayManipulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="-91">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,8 +107,13 @@
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedStringTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedString.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaosTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaos.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2Test.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/ArrayManipulation.java" />
       </list>
     </option>
   </component>
@@ -134,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,9 +161,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Course" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,8 +189,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RotateLeftTest.test1">
-    <configuration name="JumpingOnTheCloudsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MinimumSwaps2Test.test1">
+    <configuration name="MinimumSwaps2Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -202,14 +199,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.JumpingOnTheCloudsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.MinimumSwaps2Test" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpingOnTheCloudsTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinimumSwaps2Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -218,39 +215,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.JumpingOnTheCloudsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.MinimumSwaps2Test" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedStringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewYearChaosTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
+          <option name="PATTERN" value="com.aceinthedeck.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.RepeatedStringTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.NewYearChaosTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedStringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewYearChaosTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
+          <option name="PATTERN" value="com.aceinthedeck.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.RepeatedStringTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.NewYearChaosTest" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -274,19 +271,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.JumpingOnTheCloudsTest.test1" />
-      <item itemvalue="JUnit.JumpingOnTheCloudsTest.test2" />
-      <item itemvalue="JUnit.RepeatedStringTest.test1" />
-      <item itemvalue="JUnit.RepeatedStringTest.test2" />
       <item itemvalue="JUnit.RotateLeftTest.test1" />
+      <item itemvalue="JUnit.NewYearChaosTest.test1" />
+      <item itemvalue="JUnit.NewYearChaosTest.test2" />
+      <item itemvalue="JUnit.MinimumSwaps2Test.test1" />
+      <item itemvalue="JUnit.MinimumSwaps2Test.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MinimumSwaps2Test.test1" />
+        <item itemvalue="JUnit.MinimumSwaps2Test.test2" />
+        <item itemvalue="JUnit.NewYearChaosTest.test2" />
+        <item itemvalue="JUnit.NewYearChaosTest.test1" />
         <item itemvalue="JUnit.RotateLeftTest.test1" />
-        <item itemvalue="JUnit.RepeatedStringTest.test2" />
-        <item itemvalue="JUnit.RepeatedStringTest.test1" />
-        <item itemvalue="JUnit.JumpingOnTheCloudsTest.test2" />
-        <item itemvalue="JUnit.JumpingOnTheCloudsTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +298,8 @@
       <option name="presentableId" value="Default" />
       <updated>1564317501359</updated>
       <workItem from="1564317505067" duration="21655000" />
-      <workItem from="1565650670422" duration="5867000" />
+      <workItem from="1565650670422" duration="6906000" />
+      <workItem from="1565862679203" duration="4564000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1564328495759</created>
@@ -338,49 +336,56 @@
       <option name="project" value="LOCAL" />
       <updated>1565650759256</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added more questions">
+      <created>1565858968022</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565858968022</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JumpingOnTheCloudsTest_test1 - 2019.08.13 at 20h 55m 03s.xml">
-      <configuration name="JumpingOnTheCloudsTest.test1" configurationId="JUnit" />
+    <history-entry file="NewYearChaosTest_test2 - 2019.08.15 at 11h 18m 18s.xml">
+      <configuration name="NewYearChaosTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JumpingOnTheCloudsTest_test1 - 2019.08.13 at 20h 59m 00s.xml">
-      <configuration name="JumpingOnTheCloudsTest.test1" configurationId="JUnit" />
+    <history-entry file="NewYearChaosTest_test2 - 2019.08.15 at 11h 22m 11s.xml">
+      <configuration name="NewYearChaosTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 04m 32s.xml">
-      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
+    <history-entry file="NewYearChaosTest_test2 - 2019.08.15 at 11h 45m 01s.xml">
+      <configuration name="NewYearChaosTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 10m 20s.xml">
-      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
+    <history-entry file="NewYearChaosTest_test2 - 2019.08.15 at 11h 47m 12s.xml">
+      <configuration name="NewYearChaosTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 10m 38s.xml">
-      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
+    <history-entry file="NewYearChaosTest_test2 - 2019.08.15 at 11h 51m 16s.xml">
+      <configuration name="NewYearChaosTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 17m 52s.xml">
-      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
+    <history-entry file="MinimumSwaps2Test_test1 - 2019.08.15 at 13h 27m 31s.xml">
+      <configuration name="MinimumSwaps2Test.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JumpingOnTheCloudsTest_test2 - 2019.08.13 at 21h 17m 55s.xml">
-      <configuration name="JumpingOnTheCloudsTest.test2" configurationId="JUnit" />
+    <history-entry file="MinimumSwaps2Test_test2 - 2019.08.15 at 19h 58m 34s.xml">
+      <configuration name="MinimumSwaps2Test.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatedStringTest_test1 - 2019.08.13 at 22h 11m 44s.xml">
-      <configuration name="RepeatedStringTest.test1" configurationId="JUnit" />
+    <history-entry file="MinimumSwaps2Test_test2 - 2019.08.15 at 19h 58m 50s.xml">
+      <configuration name="MinimumSwaps2Test.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatedStringTest_test2 - 2019.08.13 at 22h 12m 33s.xml">
-      <configuration name="RepeatedStringTest.test2" configurationId="JUnit" />
+    <history-entry file="MinimumSwaps2Test_test2 - 2019.08.15 at 19h 59m 05s.xml">
+      <configuration name="MinimumSwaps2Test.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotateLeftTest_test1 - 2019.08.15 at 09h 26m 09s.xml">
-      <configuration name="RotateLeftTest.test1" configurationId="JUnit" />
+    <history-entry file="MinimumSwaps2Test_test1 - 2019.08.15 at 22h 34m 39s.xml">
+      <configuration name="MinimumSwaps2Test.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27522000" />
+    <option name="totallyTimeSpent" value="33125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1260" height="684" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25779969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -389,7 +394,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293919" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33952704" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49917898" weight="0.39864865" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,6 +464,12 @@
           <line>7</line>
           <properties />
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaos.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -800,6 +811,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -810,20 +846,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="627">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaosTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/ArrayManipulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
         </state>
       </provider>
     </entry>

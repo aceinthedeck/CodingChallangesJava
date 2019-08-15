@@ -1,7 +1,5 @@
 package com.aceinthedeck.arrays;
 
-
-
 /*
 
 https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
@@ -36,5 +34,4 @@ public class RotateLeft {
         }
         return temp;
     }
-
 }
