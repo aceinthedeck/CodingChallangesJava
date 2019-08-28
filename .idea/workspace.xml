@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/sorting/BubbleSortCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/sorting/BubbleSortCountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/sorting/CountInversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/sorting/FraudulentActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/sorting/FraudulentActivityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/sorting/MarkAndToys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/sorting/MarkAndToysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/AlternatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/AlternatingCharactersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/MakingAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/MakingAnagramsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTripletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/hashmap/RansomNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/hashmap/RansomNoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChildTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagramsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/TwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/TwoStringsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,19 +29,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockString.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+            <state relative-caret-position="169">
+              <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagramsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockStringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTripletTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,18 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/MaxCharTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FizzBuzzTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/ArrayChunkTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/Anagram.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/AnagramTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/SentenceCapitalizationTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/SentenceCapitalization.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/StepPattern.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/StepPatternTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/PyramidPattern.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/PyramidPatternTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java" />
@@ -116,6 +127,18 @@
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/AlternatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockString.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockStringTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgainTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgain.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChildTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChild.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/hashmap/RansomNote.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/hashmap/RansomNoteTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/TwoStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/TwoStringsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagramsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTripletTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java" />
       </list>
     </option>
   </component>
@@ -133,9 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,17 +174,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aceinthedeck" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ProgrammingProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aceinthedeck" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,8 +207,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SherlockStringTest.test2">
-    <configuration name="AlternatingCharactersTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CountTripletTest.test1">
+    <configuration name="CommonChildTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -201,62 +217,46 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.AlternatingCharactersTest" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.CommonChildTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FraudulentActivityTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountTripletTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.sorting.*" />
+          <option name="PATTERN" value="com.aceinthedeck.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.sorting.FraudulentActivityTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.CountTripletTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakingAnagramsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RansomNoteTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
+          <option name="PATTERN" value="com.aceinthedeck.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.MakingAnagramsTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.hashmap" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.hashmap.RansomNoteTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SherlockStringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.SherlockStringTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SherlockStringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SherlockAnagramsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
@@ -265,27 +265,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.SherlockStringTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.SherlockAnagramsTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStringsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.TwoStringsTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FraudulentActivityTest.test1" />
-      <item itemvalue="JUnit.MakingAnagramsTest.test1" />
-      <item itemvalue="JUnit.AlternatingCharactersTest.test1" />
-      <item itemvalue="JUnit.SherlockStringTest.test1" />
-      <item itemvalue="JUnit.SherlockStringTest.test2" />
+      <item itemvalue="JUnit.CommonChildTest.test1" />
+      <item itemvalue="JUnit.RansomNoteTest.test1" />
+      <item itemvalue="JUnit.TwoStringsTest.test1" />
+      <item itemvalue="JUnit.SherlockAnagramsTest.test1" />
+      <item itemvalue="JUnit.CountTripletTest.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SherlockStringTest.test2" />
-        <item itemvalue="JUnit.SherlockStringTest.test1" />
-        <item itemvalue="JUnit.AlternatingCharactersTest.test1" />
-        <item itemvalue="JUnit.MakingAnagramsTest.test1" />
-        <item itemvalue="JUnit.FraudulentActivityTest.test1" />
+        <item itemvalue="JUnit.CountTripletTest.test1" />
+        <item itemvalue="JUnit.SherlockAnagramsTest.test1" />
+        <item itemvalue="JUnit.TwoStringsTest.test1" />
+        <item itemvalue="JUnit.RansomNoteTest.test1" />
+        <item itemvalue="JUnit.CommonChildTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +318,8 @@
       <workItem from="1564317505067" duration="21655000" />
       <workItem from="1565650670422" duration="6906000" />
       <workItem from="1565862679203" duration="9862000" />
-      <workItem from="1565985237689" duration="2306000" />
+      <workItem from="1565985237689" duration="4890000" />
+      <workItem from="1566896431769" duration="5948000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1564328495759</created>
@@ -353,49 +370,56 @@
       <option name="project" value="LOCAL" />
       <updated>1565908722645</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added more questions">
+      <created>1565990767559</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565990767559</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 42m 45s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="SherlockAnagramsTest_test1 - 2019.08.27 at 12h 07m 29s.xml">
+      <configuration name="SherlockAnagramsTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 43m 11s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 34m 38s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 44m 12s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 34m 46s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 44m 36s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 35m 37s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 45m 12s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 36m 04s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 45m 34s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 37m 46s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 46m 31s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 41m 34s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 47m 06s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 47m 42s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 52m 19s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.28 at 10h 39m 01s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SherlockStringTest_test2 - 2019.08.16 at 21h 52m 22s.xml">
-      <configuration name="SherlockStringTest.test2" configurationId="JUnit" />
+    <history-entry file="CountTripletTest_test1 - 2019.08.28 at 10h 44m 12s.xml">
+      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40729000" />
+    <option name="totallyTimeSpent" value="49261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1260" height="684" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26600984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -493,120 +517,40 @@
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgain.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChild.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/AnagramTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/MaxCharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/StepPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/SentenceCapitalizationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/SentenceCapitalization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FizzBuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="52" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/StepPatternTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/PyramidPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/SpiralMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
@@ -618,16 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -925,17 +859,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChildTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
+        <state relative-caret-position="510">
           <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockStringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/TwoStringsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="165">
+          <caret line="11" column="90" lean-forward="true" selection-start-line="11" selection-start-column="90" selection-end-line="11" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/TwoStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="8" column="71" lean-forward="true" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/hashmap/RansomNoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/hashmap/RansomNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="52" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagramsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTripletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
