@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/ArrayChunk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/ContinousSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/tests/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/AnagramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/ContinousSubArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/FibonacciSeriesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,31 +25,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/FibonacciSeriesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrixTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+            <state relative-caret-position="-121">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -61,9 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchant.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchantTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleys.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleysTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheCloudsTest.java" />
@@ -108,10 +101,13 @@
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargetSubmatrixTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrixTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/ArrayChunk.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/FibonacciSeries.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java" />
       </list>
     </option>
   </component>
@@ -139,13 +135,13 @@
             <path>
               <item name="ProgrammingProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProgrammingProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aceinthedeck" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +288,7 @@
       <workItem from="1565650670422" duration="6906000" />
       <workItem from="1565862679203" duration="9862000" />
       <workItem from="1565985237689" duration="4890000" />
-      <workItem from="1566896431769" duration="11374000" />
+      <workItem from="1566896431769" duration="14225000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1564328495759</created>
@@ -400,11 +396,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54687000" />
+    <option name="totallyTimeSpent" value="57538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1260" height="684" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26600984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -469,7 +464,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java</url>
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/ArrayChunk.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="6" />
@@ -562,106 +557,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheClouds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleysTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountingValleys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeftTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/RotateLeft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/HourGlass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/NewYearChaosTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/MinimumSwaps2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/PyramidPatternTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -922,30 +817,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -974,6 +851,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/AnagramTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/ArrayChunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/FibonacciSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -981,20 +923,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrixTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/MaxChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/ContinousSubArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/ContinousSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/FibonacciSeriesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>

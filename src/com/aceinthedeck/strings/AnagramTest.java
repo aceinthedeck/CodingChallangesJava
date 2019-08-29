@@ -1,6 +1,6 @@
-package com.aceinthedeck.tests;
+package com.aceinthedeck.strings;
 
-import com.aceinthedeck.Anagram;
+import com.aceinthedeck.strings.Anagram;
 import org.junit.Assert;
 import org.junit.Test;
 

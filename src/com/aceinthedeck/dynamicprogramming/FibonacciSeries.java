@@ -1,4 +1,4 @@
-package com.aceinthedeck;
+package com.aceinthedeck.dynamicprogramming;
 
 public class FibonacciSeries {
 

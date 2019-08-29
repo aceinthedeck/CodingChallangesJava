@@ -1,6 +1,6 @@
-package com.aceinthedeck.tests;
+package com.aceinthedeck.dynamicprogramming;
 
-import com.aceinthedeck.FibonacciSeries;
+import com.aceinthedeck.dynamicprogramming.FibonacciSeries;
 import org.junit.Assert;
 import org.junit.Test;
 

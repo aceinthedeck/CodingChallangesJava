@@ -1,4 +1,4 @@
-package com.aceinthedeck;
+package com.aceinthedeck.arrays;
 
 import java.util.ArrayList;
 import java.util.Arrays;

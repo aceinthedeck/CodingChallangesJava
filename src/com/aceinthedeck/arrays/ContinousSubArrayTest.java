@@ -1,6 +1,6 @@
-package com.aceinthedeck.tests;
+package com.aceinthedeck.arrays;
 
-import com.aceinthedeck.ContinousSubArray;
+import com.aceinthedeck.arrays.ContinousSubArray;
 import org.junit.Assert;
 import org.junit.Test;
 
