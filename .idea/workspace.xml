@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTripletTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/hashmap/RansomNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/hashmap/RansomNoteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/CommonChildTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagramsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/SpecialStringAgainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/TwoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/TwoStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargetSubmatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrixTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,43 +25,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagramsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTripletTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrixTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,14 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/PyramidPatternTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/SpiralMatrix.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FibonacciSeriesTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java" />
-        <option value="$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchant.java" />
@@ -139,6 +103,14 @@
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTripletTest.java" />
         <option value="$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequenceTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargetSubmatrixTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrixTest.java" />
+        <option value="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java" />
       </list>
     </option>
   </component>
@@ -174,6 +146,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aceinthedeck" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProgrammingProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aceinthedeck" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicprogramming" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -207,23 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CountTripletTest.test1">
-    <configuration name="CommonChildTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.CommonChildTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MinCostMatrixTest.test1">
     <configuration name="CountTripletTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
@@ -240,48 +203,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RansomNoteTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LargetSubmatrixTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.hashmap.*" />
+          <option name="PATTERN" value="com.aceinthedeck.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.hashmap" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.hashmap.RansomNoteTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.dynamicprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.dynamicprogramming.LargetSubmatrixTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SherlockAnagramsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonSubsequenceTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
+          <option name="PATTERN" value="com.aceinthedeck.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.SherlockAnagramsTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.dynamicprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.dynamicprogramming.LongestCommonSubsequenceTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoStringsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestPalindromeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.strings.*" />
+          <option name="PATTERN" value="com.aceinthedeck.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.strings.TwoStringsTest" />
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.dynamicprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.dynamicprogramming.LongestPalindromeTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinCostMatrixTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aceinthedeck.dynamicprogramming" />
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.dynamicprogramming.MinCostMatrixTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -289,19 +268,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CommonChildTest.test1" />
-      <item itemvalue="JUnit.RansomNoteTest.test1" />
-      <item itemvalue="JUnit.TwoStringsTest.test1" />
-      <item itemvalue="JUnit.SherlockAnagramsTest.test1" />
       <item itemvalue="JUnit.CountTripletTest.test1" />
+      <item itemvalue="JUnit.LongestCommonSubsequenceTest.test1" />
+      <item itemvalue="JUnit.LongestPalindromeTest.test1" />
+      <item itemvalue="JUnit.LargetSubmatrixTest.test1" />
+      <item itemvalue="JUnit.MinCostMatrixTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MinCostMatrixTest.test1" />
+        <item itemvalue="JUnit.LargetSubmatrixTest.test1" />
+        <item itemvalue="JUnit.LongestPalindromeTest.test1" />
+        <item itemvalue="JUnit.LongestCommonSubsequenceTest.test1" />
         <item itemvalue="JUnit.CountTripletTest.test1" />
-        <item itemvalue="JUnit.SherlockAnagramsTest.test1" />
-        <item itemvalue="JUnit.TwoStringsTest.test1" />
-        <item itemvalue="JUnit.RansomNoteTest.test1" />
-        <item itemvalue="JUnit.CommonChildTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +298,7 @@
       <workItem from="1565650670422" duration="6906000" />
       <workItem from="1565862679203" duration="9862000" />
       <workItem from="1565985237689" duration="4890000" />
-      <workItem from="1566896431769" duration="5948000" />
+      <workItem from="1566896431769" duration="11253000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1564328495759</created>
@@ -377,43 +356,50 @@
       <option name="project" value="LOCAL" />
       <updated>1565990767559</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added more questions">
+      <created>1566985606269</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1566985606269</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SherlockAnagramsTest_test1 - 2019.08.27 at 12h 07m 29s.xml">
-      <configuration name="SherlockAnagramsTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 24m 41s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 34m 38s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 25m 47s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 34m 46s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 26m 17s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 35m 37s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 26m 46s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 36m 04s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 29m 54s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 37m 46s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 30m 36s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 41m 34s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 31m 42s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.27 at 14h 47m 42s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 32m 30s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.28 at 10h 39m 01s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 34m 22s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountTripletTest_test1 - 2019.08.28 at 10h 44m 12s.xml">
-      <configuration name="CountTripletTest.test1" configurationId="JUnit" />
+    <history-entry file="MinCostMatrixTest_test1 - 2019.08.28 at 17h 36m 12s.xml">
+      <configuration name="MinCostMatrixTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49261000" />
+    <option name="totallyTimeSpent" value="54566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="42" width="1260" height="684" extended-state="0" />
@@ -547,88 +533,34 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindrome.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FibonacciSeries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/SockMerchantTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/FindTriplets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ContinousSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/ArrayChunk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/FindTripletsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/tests/ContinousSubArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/JumpingOnTheCloudsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/RepeatedStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -954,13 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagramsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -968,6 +893,23 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/strings/SherlockAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -981,10 +923,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/CountTriplets.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargestSubmatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LargetSubmatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
