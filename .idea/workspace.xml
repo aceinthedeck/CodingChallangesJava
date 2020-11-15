@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0bfb5b-e4a6-4023-9b8e-7f1cd5461570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/tests/TwoSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/linkedlists/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/linkedlists/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/linkedlists/tests/AddTwoNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/LongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/tests/LongestSubstringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/RectangleOverlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/MeetingTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/arrays/SequentialDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/hashmap/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/trees/binarytree/EvenOddTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/trees/binarytree/TreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aceinthedeck/trees/binarytree/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/strings/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aceinthedeck/strings/tests/LongestSubstringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aceinthedeck/strings/tests/LongestSubstringTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -52,7 +54,59 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.AddTwoNumbersTest.test1">
+  <component name="RunManager" selected="Application.TreeMain">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.Main" />
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.hashmap.Practice" />
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.trees.binarytree.TreeMain" />
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.trees.binarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.dynamicprogramming.test" />
+      <module name="ProgrammingProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aceinthedeck.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AddTwoNumbersTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingProblems" />
       <extension name="coverage">
@@ -69,87 +123,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargetSubmatrixTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.dynamicprogramming" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.dynamicprogramming.LargetSubmatrixTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinCostMatrixTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.dynamicprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.dynamicprogramming" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.dynamicprogramming.MinCostMatrixTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSumTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.arrays.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.tests.TwoSumTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSumTest.testHashMap1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aceinthedeck.arrays.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.aceinthedeck.arrays.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.aceinthedeck.arrays.tests.TwoSumTest" />
-      <option name="METHOD_NAME" value="testHashMap1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.LargetSubmatrixTest.test1" />
-      <item itemvalue="JUnit.MinCostMatrixTest.test1" />
-      <item itemvalue="JUnit.TwoSumTest.test1" />
-      <item itemvalue="JUnit.TwoSumTest.testHashMap1" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.Practice" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TreeMain" />
       <item itemvalue="JUnit.AddTwoNumbersTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.test" />
         <item itemvalue="JUnit.AddTwoNumbersTest.test1" />
-        <item itemvalue="JUnit.TwoSumTest.testHashMap1" />
-        <item itemvalue="JUnit.TwoSumTest.test1" />
-        <item itemvalue="JUnit.MinCostMatrixTest.test1" />
-        <item itemvalue="JUnit.LargetSubmatrixTest.test1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -165,7 +156,19 @@
       <workItem from="1565862679203" duration="9862000" />
       <workItem from="1565985237689" duration="4890000" />
       <workItem from="1566896431769" duration="14225000" />
-      <workItem from="1583064199099" duration="8350000" />
+      <workItem from="1583064199099" duration="8374000" />
+      <workItem from="1583169493760" duration="699000" />
+      <workItem from="1583595904252" duration="603000" />
+      <workItem from="1583948216521" duration="180000" />
+      <workItem from="1583959253122" duration="686000" />
+      <workItem from="1584706360738" duration="13000" />
+      <workItem from="1597357021120" duration="1963000" />
+      <workItem from="1597604474383" duration="6000" />
+      <workItem from="1602364467500" duration="2309000" />
+      <workItem from="1602369188574" duration="4030000" />
+      <workItem from="1602455208552" duration="72000" />
+      <workItem from="1605365948535" duration="3835000" />
+      <workItem from="1605468903866" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1564328495759</created>
@@ -237,11 +240,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567038849269</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added more questions">
+      <created>1583100639943</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1583100639943</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added gitignore file" />
@@ -250,46 +260,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="added more questions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1128" y="589" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583064218942">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1602366788216">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1128" y="589" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583064218942" />
-    <state width="2517" height="413" key="GridCell.Tab.0.bottom" timestamp="1583100618201">
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1602366788216" />
+    <state width="2517" height="413" key="GridCell.Tab.0.bottom" timestamp="1602380872745">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583100618201" />
-    <state width="2517" height="413" key="GridCell.Tab.0.center" timestamp="1583100618201">
+    <state width="2517" height="413" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602380872745" />
+    <state width="2517" height="413" key="GridCell.Tab.0.center" timestamp="1602380872745">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="413" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583100618201" />
-    <state width="2517" height="413" key="GridCell.Tab.0.left" timestamp="1583100618201">
+    <state width="2517" height="413" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602380872745" />
+    <state width="2517" height="413" key="GridCell.Tab.0.left" timestamp="1602380872745">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="413" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583100618201" />
-    <state width="2517" height="413" key="GridCell.Tab.0.right" timestamp="1583100618201">
+    <state width="2517" height="413" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602380872745" />
+    <state width="2517" height="413" key="GridCell.Tab.0.right" timestamp="1602380872745">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="413" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583100618201" />
-    <state width="2517" height="490" key="GridCell.Tab.1.bottom" timestamp="1583100046527">
+    <state width="2517" height="413" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602380872745" />
+    <state width="2517" height="490" key="GridCell.Tab.1.bottom" timestamp="1602366789634">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="490" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583100046527" />
-    <state width="2517" height="490" key="GridCell.Tab.1.center" timestamp="1583100046527">
+    <state width="2517" height="490" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602366789634" />
+    <state width="2517" height="490" key="GridCell.Tab.1.center" timestamp="1602366789634">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="490" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583100046527" />
-    <state width="2517" height="490" key="GridCell.Tab.1.left" timestamp="1583100046527">
+    <state width="2517" height="490" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602366789634" />
+    <state width="2517" height="490" key="GridCell.Tab.1.left" timestamp="1602366789634">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="490" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583100046527" />
-    <state width="2517" height="490" key="GridCell.Tab.1.right" timestamp="1583100046527">
+    <state width="2517" height="490" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602366789634" />
+    <state width="2517" height="490" key="GridCell.Tab.1.right" timestamp="1602366789634">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="490" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583100046527" />
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1583064199459">
+    <state width="2517" height="490" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602366789634" />
+    <state x="871" y="320" key="new project wizard" timestamp="1602455278084">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583064199459" />
+    <state x="871" y="320" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1602455278084" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -383,6 +393,21 @@
           <url>file://$PROJECT_DIR$/src/com/aceinthedeck/dynamicprogramming/MinCostMatrix.java</url>
           <line>13</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/hashmap/Practice.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/SequentialDigits.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aceinthedeck/arrays/SequentialDigits.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
